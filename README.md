@@ -5,7 +5,7 @@
 
 # RetailDB: Symulacja Handlu Detalicznego i Analityka SQL
 
-Ten projekt to środowisko SQL Server symulujące działanie firmy z branży retail. Projekt generuje schemat bazy danych, symuluje 2 lata historii transakcyjnejoraz tworzy warstwę analityczną .
+Projekt został zrealizowany w całości przy użyciu Microsoft SQL Server oraz języka T-SQL. Symuluje on działanie firmy z branży retail. Projekt generuje schemat bazy danych, generuje 2 lata historii transakcyjnej oraz tworzy warstwę analityczną.
 
 ## Struktura Plików
 
@@ -48,7 +48,7 @@ Projekt implementuje szereg standardowych metryk biznesowych używanych w e-comm
 
 # RetailDB: Retail Simulation & SQL Analytics
 
-This project creates a SQL Server environment simulating a retail company. It generates the database schema, simulates 2 years of transactional history, and builds an analytics layer.
+The project was implemented entirely using Microsoft SQL Server and T-SQL. It simulates the operations of a retail business. The project generates the database schema, creates 2 years of transactional history, and builds an analytics layer.
 
 ## File Structure
 
